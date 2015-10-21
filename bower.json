@@ -9,7 +9,7 @@
   "description": "An AngularJS Split Pane directive",
   "license": "MIT",
   "dependencies": {
-    "split-pane": "0.5.0",
+    "split-pane": "https://github.com/ykog/split-pane.git#master",
     "angular": "~1.2.0"
   },
   "ignore": [
